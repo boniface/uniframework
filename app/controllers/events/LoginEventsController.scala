@@ -11,5 +11,6 @@ import play.api.mvc.{AbstractController, ControllerComponents}
 
 class LoginEventsController @Inject()
 (cc: ControllerComponents) extends AbstractController(cc) {
+ 
+ 
 }
-
