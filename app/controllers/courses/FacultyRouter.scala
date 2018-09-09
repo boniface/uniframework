@@ -6,7 +6,7 @@ import play.api.routing.Router.Routes
 import play.api.routing.SimpleRouter
 
 class FacultyRouter @Inject()
-(facultyController: FacultyController)
+(facultyCreationRouter: FacultyController)
   extends SimpleRouter {
   override def routes: Routes = ???
 }
