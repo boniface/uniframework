@@ -14,7 +14,7 @@ import play.api.routing.SimpleRouter
   * Created by hashcode on 2017/03/04.
   */
 
-class UsersRouter @Inject()
+class StaffSubjectsRouter @Inject()
  (staffSubjectsCreationRouter: StaffSubjectsController)
   extends SimpleRouter {
   override def routes: Routes = ???
