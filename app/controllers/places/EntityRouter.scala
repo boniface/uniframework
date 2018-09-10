@@ -5,9 +5,8 @@ import play.api.routing.Router.Routes
 import play.api.routing.SimpleRouter
 
 /**
-  *Creater Natasha
-  *Reviewer Yandisa
-  *
+  * Creater Natasha
+  * Reviewer Yandisa
   */
 
 class EntityRouter @Inject()
