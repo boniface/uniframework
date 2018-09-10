@@ -9,7 +9,7 @@ import play.api.routing.SimpleRouter
   */
 
 class CampusRouter @Inject()
- (campusRouter: CampusController)
+ (campusCreationRouter: CampusController)
   extends SimpleRouter {
   override def routes: Routes = ???
 }
