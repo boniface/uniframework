@@ -1,4 +1,4 @@
-package controllers.courses
+package controllers.people
 
 /**
   *Creater Wailed
